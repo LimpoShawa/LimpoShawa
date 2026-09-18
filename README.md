@@ -1,8 +1,8 @@
 ### Hi, I'm Limpo 💗
 
-I turn user behavior data into decisions — funnel drop-offs, churn signals, A/B results, and what they mean for the product. Background in cybersecurity, currently completing my Master's in Data Science for Society and Business, now focused on product & behavioral analytics.
+I turn user behavior data into decisions — funnel drop-offs, churn signals, A/B results, and what they mean for the product. I have a background in cybersecurity, and I am currently completing my Master's in Data Science for Society and Business, my  focus is on product & behavioral analytics.
 
-**What I'm building toward:** understanding one product deeply enough to tell its team exactly where users are struggling and why — then backing it up with a clear, honest recommendation.
+**What I'm building toward:** understanding one product deeply enough to tell its team exactly where users are struggling and why - then backing it up with a clear, honest recommendation.
 
 ---
 
