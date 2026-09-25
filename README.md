@@ -1,14 +1,33 @@
-### Hi, I'm Limpo 💗
+# Hi, I'm Limpo 💗
 
-I turn user behavior data into decisions — funnel drop-offs, churn signals, A/B results, and what they mean for the product. I have a background in cybersecurity, and I am currently completing my Master's in Data Science for Society and Business, my  focus is on product & behavioral analytics.
+I'm a Data Science Master's student who enjoys using data to understand real-world problems and turn analysis into useful insights.
 
-**What I'm building toward:** understanding one product deeply enough to tell its team exactly where users are struggling and why - then backing it up with a clear, honest recommendation.
+My academic and personal projects have taken me across different areas, including transportation, elections, social issues, text analysis, business, and user behaviour. Across these projects, I enjoy the process of taking a messy or interesting problem, exploring the data behind it, finding meaningful patterns, and asking what those findings could actually mean in the real world.
+
+I'm particularly interested in **user behaviour and product analysis**. I want to understand how people interact with products, where they experience problems, what the data can tell us about their behaviour, and how analysis can support better product and business decisions.
+
+I have a background in **Cybersecurity (BSc)** and am currently completing my **Master's in Data Science for Society and Business (MSc)**.
 
 ---
 
-📊 **Focus areas:** funnel analysis · churn & retention · A/B testing · SQL & Python
+## 📊 What I Work With
 
-🧠 **Background:** Cybersecurity (BSc) → Data Science (MSc) → Data Analytics — I bring a systems-thinking, risk-aware lens to behavioral data
+**Data Science & Analytics:** R · Python · SQL · Data Wrangling · Exploratory Data Analysis · Data Visualization
+
+**Areas I'm Exploring:** User Behaviour · Product Analytics · Business Analytics · Data-Driven Decision Making
+
+**Background:** Cybersecurity → Data Science → Data Analytics
+
+My cybersecurity background also gives me a systems-thinking and risk-aware perspective when working with data.
+
+---
+
+
+## 🌱 What I'm Building Toward
+
+I want to become a data professional who can move beyond simply analysing datasets.
+
+I'm interested in understanding the **problem behind the data**, finding evidence in the data, communicating what it means clearly, and connecting analysis to decisions that can make products, businesses, and systems work better.
 
 ---
 
