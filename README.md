@@ -6,7 +6,7 @@ My academic and personal projects have taken me across different areas, includin
 
 I'm particularly interested in **user behaviour and product analysis**. I want to understand how people interact with products, where they experience problems, what the data can tell us about their behaviour, and how analysis can support better product and business decisions.
 
-I have a background in **Cybersecurity (BSc Hons)** and am currently completing my **Master's in Data Science for Society and Business (MSc)**.
+I have a background in **Cybersecurity (BSc Hons)** and I am currently completing my **Master's in Data Science for Society and Business (MSc)**.
 
 ---
 
@@ -25,7 +25,7 @@ My cybersecurity background also gives me a systems-thinking and risk-aware pers
 
 ## 🌱 What I'm Building Toward
 
-I want to become a data professional who can move beyond simply analysing datasets.
+I aim to be a data professional who can move beyond simply analysing datasets.
 
 I'm interested in understanding the **problem behind the data**, finding evidence in the data, communicating what it means clearly, and connecting analysis to decisions that can make products, businesses, and systems work better.
 
