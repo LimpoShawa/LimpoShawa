@@ -6,7 +6,7 @@ My academic and personal projects have taken me across different areas, includin
 
 I'm particularly interested in **user behaviour and product analysis**. I want to understand how people interact with products, where they experience problems, what the data can tell us about their behaviour, and how analysis can support better product and business decisions.
 
-I have a background in **Cybersecurity (BSc)** and am currently completing my **Master's in Data Science for Society and Business (MSc)**.
+I have a background in **Cybersecurity (BSc Hons)** and am currently completing my **Master's in Data Science for Society and Business (MSc)**.
 
 ---
 
